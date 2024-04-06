@@ -1,5 +1,24 @@
-# References
-|   Work    |  Year  |   Type  |
+# Machine Learning
+|   Work    |  Year  |  Type   |
+| :-------: | :----: | :-----: |
+|  [Pea01]  |  1901  | Article |
+|  [Hot33]  |  1933  | Article |
+|  [Qui86]  |  1986  | Article |
+|  [QUi93]  |  1993  | Book    |
+
+## References 
+
+Hotelling, H. (1933) Analysis of a complex of statistical variables into principal components. _Journal of Educational Psychology_, 24, 417-441.
+http://dx.doi.org/10.1037/h0071325
+
+Pearson, K. (1901). LIII. On lines and planes of closest fit to systems of points in space. _The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science_, 2(11), 559–572. https://doi.org/10.1080/14786440109462720
+
+Quinlan, J. R. Induction of decision trees. _Machine Learning_ 1, 81–106 (1986). https://doi.org/10.1007/BF00116251
+
+Quinlan J. R. 1993. C4.5: Programs for Machine Learning. Morgan Kaufmann Publishers, San Mateo, CA.
+
+# Deep Learning
+|   Work    |  Year  |  Type   |
 | :-------: | :----: | :-----: |
 |  [Tho11]  |  1911  | Book    |
 |  [MP43]   |  1943  | Article |
@@ -25,9 +44,12 @@
 |  [GBD92]  |  1992  | Article |
 |  [Hay94]  |  1994  | Book    |
 
+## References 
 Fukushima, K. Cognitron: A self-organizing multilayered neural network. _Biol. Cybernetics_ 20, 121–136 (1975). https://doi.org/10.1007/BF00342633
 
 Fukushima, K. Neocognitron: A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position. _Biol. Cybernetics_ 36, 193–202 (1980). https://doi.org/10.1007/BF00344251
+
+Haykin, S. (1994) Neural Networks: A Comprehensive Foundation. Macmillan Publishing, New York.
 
 Hebb, D. O. (1949). _The organization of behavior: a neuropsychological theory_. Wiley.
 
